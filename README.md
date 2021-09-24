@@ -48,6 +48,7 @@ In this notebook , I had experiment limiting the maximum vocab to 120 and 6,000 
 [(back to top)](#content_page)
 
 **Insights**
+
 Our models performed relatively well in differentiating between post from fake news and world news. The 3 models performed consistently with accuracy between 78% - 83% and F1 score of 83% - 86% , with the transfer learning USE outperforming amongst all.
 The differences or the part where the models are confused is probably due to common word associated to both side of the posts such as US , death , which is possibly linked to the Afghan withdrawal , as well as the US handling of Covid 19 . 
 
